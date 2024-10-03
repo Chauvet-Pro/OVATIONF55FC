@@ -1,4 +1,9 @@
-# OVATIONF55FC
+# Ovation F-55FC
+
+### ***Please use UPLOAD 03 to update the Ovation F-915FC software, or to fix partial or total firmware failure.***
+&nbsp;
+
+## Software Versions
 
 [V3.0.1 – Ovation F-55FC](https://github.com/Chauvet-Pro/OVATIONF55FC/blob/1c64c0d09b262975917ba32fe3e066897508be99/firmware/V3.0.1.zip)
 -	Updated maximum available DMX address limitation and improved master slave functionality
