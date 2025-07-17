@@ -5,6 +5,9 @@
 
 ## Software Versions
 
+[V3.0.2 - Ovation F-55FC](https://github.com/Chauvet-Pro/OVATIONF55FC/blob/41c5d3db9f8687693bb829235793af4929a7b0ba/firmware/V3.0.2.zip)
+- Fixes a bug where the dimming knob does not work when the fixture is set to "Master Mode" and "Virtual Color Wheel"
+
 [V3.0.1 – Ovation F-55FC](https://github.com/Chauvet-Pro/OVATIONF55FC/blob/1c64c0d09b262975917ba32fe3e066897508be99/firmware/V3.0.1.zip)
 -	Updated maximum available DMX address limitation and improved master slave functionality
 
